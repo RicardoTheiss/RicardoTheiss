@@ -16,7 +16,7 @@
 - 👨‍💻Já fui selecionado para um curso de uma StartUp nomeada Pacetech, direcinado à área tech
 - 🐱‍💻Atualmente realizo cursos online voltados à introdução de programação e linguagens de mercado (Principal plataforma que ultilizo é a Udemy)
 - ✍️Sou fluente em inglês
-- 💻Possuo certificado de conclusão de curso voltado a Desgn Digital (Photoshop, CorelDraw e Ilustrator)
+- 💻Possuo certificado de conclusão de curso voltado a Design Digital (Photoshop, CorelDraw e Ilustrator)
 
 
 
