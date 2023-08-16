@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Ricardo e estou começando no mundo dev!
 
 
-![RicardoTheiss GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![RicardoTheiss GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoTheiss&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia a dia:
 
