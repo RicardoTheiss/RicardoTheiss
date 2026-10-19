@@ -1,85 +1,85 @@
-# 👋 Olá, eu sou o Ricardo Theiss
+# Olá! Eu sou o Ricardo 👋
 
-Desenvolvedor de software com foco em **Java** e desenvolvimento web. Tenho experiência prática em sistemas reais (ERP na área contábil) e estou sempre buscando evoluir tecnicamente, principalmente explorando novas arquiteturas e integração com **LLMs**.
+💻 **Software Developer | Java | Backend | AI Engineering**
 
----
+Sou desenvolvedor de software e estudante de **Ciência da Computação na FURB**, com experiência profissional no desenvolvimento de soluções Java para sistemas ERP, especialmente nos domínios contábil e financeiro.
 
-## 🚀 Sobre mim
+Gosto de entender os problemas por trás do código, compreender regras de negócio e construir soluções que façam sentido tanto do ponto de vista técnico quanto do negócio.
 
-* 💼 Desenvolvedor Java em ambiente profissional (ERP contábil)
-* 🎓 Estudante de tecnologia e estruturas de dados
-* 🧠 Interesse em arquitetura de software e boas práticas
-* 🤖 Explorando integração de aplicações com **LLMs (LangChain4J, Quarkus, Spring)**
-* ⚡ Experiência com desenvolvimento **fullstack sem frameworks pesados**
+Atualmente, meus principais interesses são **desenvolvimento backend com Java, arquitetura de microsserviços, sistemas distribuídos e integração de Inteligência Artificial em aplicações reais**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias e ferramentas
 
-### 💻 Back-end
+### Backend
 
 * Java
-* JDBI
-* Manipulação de JSON
-* Construção de APIs e regras de negócio
-
-### 🌐 Front-end
-
-* HTML
-* CSS
-* JavaScript (Vanilla)
-* Manipulação de DOM e eventos
-
-### 🗄️ Banco de Dados
-
-* SQL
-* MariaDB
-* Otimização de queries
-
-### ⚙️ Ferramentas & Outros
-
-* Git & GitHub
-* IntelliJ IDEA
-* Terminal (Mac/Linux)
-
----
-
-## 📚 Conhecimentos Técnicos
-
-* Estruturas de Dados (listas estáticas, encadeadas, etc.)
-* Programação orientada a objetos (herança, polimorfismo)
-* Manipulação eficiente de dados e performance
-* Desenvolvimento de sistemas corporativos
-* Integração de IA em aplicações Java
-
----
-
-## 🔥 Projetos e Interesses
-
-Atualmente interessado em desenvolver projetos que envolvam:
-
-* 🤖 Chatbots com LLMs
-* 🌐 Aplicações web modernas (Spring + React)
-* 📊 Sistemas escaláveis e bem estruturados
-* 🧪 Testes automatizados (JUnit)
-
----
-
-## 📈 Em evolução
-
-Sempre estudando e evoluindo em:
-
 * Spring Boot
-* React + TypeScript
-* Arquitetura de software
-* Integração com IA
+* APIs REST
+* JPA / Hibernate
+* SQL e bancos de dados relacionais
+
+### Inteligência Artificial
+
+* LangChain4j
+* Integração de LLMs em aplicações Java
+* Engenharia de prompts
+
+### Sistemas e ferramentas
+
+* Git e GitHub
+* Apache Kafka
+* Docker *(em aprendizado)*
+
+### Frontend
+
+* React
+* TypeScript
+* HTML, CSS e JavaScript
 
 ---
 
-## 📫 Contato
+## 🛠️ Experiência e projetos
 
-* LinkedIn: https://www.linkedin.com/in/ricardo-theiss-56a575261/
+### 💼 Desenvolvimento de software para ERP
+
+Atuo profissionalmente com Java no desenvolvimento e na manutenção de sistemas ERP, trabalhando com regras de negócio, consultas SQL, integrações e evolução de funcionalidades nos módulos contábil e financeiro.
+
+Essa experiência me permite conectar decisões técnicas às necessidades reais dos usuários e compreender a complexidade de sistemas de negócio.
+
+### 🤖 Aplicações com Inteligência Artificial
+
+Exploro a integração de modelos de linguagem em aplicações Java, utilizando Spring Boot e LangChain4j. Entre meus projetos estão chatbots com autenticação e interface web, além de soluções que utilizam IA para apoiar análises e decisões.
+
+### 📦 Sistemas distribuídos e microsserviços
+
+Estudo e desenvolvo aplicações com arquitetura distribuída, explorando a comunicação assíncrona com Apache Kafka, APIs e a integração entre serviços escritos em diferentes linguagens.
 
 ---
 
-⭐ *"Construindo software com curiosidade, consistência e vontade de evoluir todos os dias."*
+## 📚 Atualmente estudando
+
+* Arquitetura de software e design de sistemas
+* Microsserviços e sistemas distribuídos
+* Docker e Kubernetes
+* Integração de LLMs com aplicações backend
+* Boas práticas de desenvolvimento Java e qualidade de código
+* Arquiteturas cloud e desenvolvimento de aplicações escaláveis
+
+---
+
+## 💡 Além do código
+
+Acredito que ser um bom desenvolvedor vai além de conhecer linguagens e frameworks. Valorizo o raciocínio lógico, a comunicação, o aprendizado contínuo e a capacidade de entender um problema antes de propor uma solução.
+
+Gosto de explorar novas tecnologias, compartilhar conhecimento e transformar ideias em projetos funcionais.
+
+---
+
+## 📫 Vamos nos conectar?
+
+* 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/ricardo-theiss-56a575261/)
+* 💻 GitHub: [Meus projetos](https://github.com/RicardoTheiss)
+
+**Sempre aberto a aprender, construir e trocar ideias sobre tecnologia.** 🚀
